@@ -39,9 +39,9 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           omnipod_cage \
-          dexcom_sage \    
+          dexcom_sage \
           future_carbs_4h \
-          low_carb_limit \       
+          low_carb_limit \
           now_line \
           lnl_icon \
           2002 \
